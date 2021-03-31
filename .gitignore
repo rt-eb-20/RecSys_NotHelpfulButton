@@ -1,0 +1,13 @@
+# Don't track content of these folders #
+
+
+
+# Packages #
+**/*.gz
+**/*.zip
+
+# input files #
+**/*csv
+
+# pycharm env
+env/
